@@ -16,7 +16,3 @@ The data is related to One Day Internation matches for all male players and it i
   * Rohit Sharma  
 * Maximum fours:  
   * Rohit Sharma
-
-### Data Sourcing
-For the analysis we have use the odi data for male from the [Cricsheet](https://cricsheet.org/) web sites. The data is in the format of YAML and we have to parse the data into tabular format
-
