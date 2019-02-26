@@ -1,4 +1,4 @@
-# Australia tour of India, 2019  
+![Australia tour of India, 2019](https://github.com/prk327/Ind_vs_Aus/blob/master/Aus_Ind.jpg)  
 ### Sports Analytics Hackathon  
 In this hackathon, we will be analysing the ODI matches between IND and AUS, Details of the **_Australia tour of India - 2019_** are provided on this [link](https://www.cricbuzz.com/cricket-series/2773/australia-tour-of-india-2019/matches?gclid=EAIaIQobChMIivnEoo694AIVVR0rCh0MTQZUEAAYASAAEgKz7vD_BwE)  
 ### Dataset can be downloaded from [here](https://cricsheet.org/downloads/odis_male.zip)  
