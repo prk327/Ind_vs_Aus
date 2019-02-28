@@ -6,7 +6,7 @@ The data is related to One Day Internation matches for all male players and it i
 ### The detail analysis for the competion can be found on the jupyter notebook attached [here](https://github.com/prk327/Ind_vs_Aus/blob/master/ODI_Analysis.ipynb)
 #### Prediction of the Analysis competition
 * Winner of the series:
-  * Australia will win 4 of the 5 ODI  
+  * India will win 3 of the 5 ODI  
 * Series output:
   * 1st ODI will win by Australia
   * 2nd ODI will win by India
