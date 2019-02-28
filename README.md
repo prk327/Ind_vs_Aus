@@ -8,12 +8,16 @@ The data is related to One Day Internation matches for all male players and it i
 * Winner of the series:
   * Australia will win 4 of the 5 ODI  
 * Series output:
-  * Australia will win first 4 ODI  
+  * 1st ODI will win by Australia
+  * 2nd ODI will win by India
+  * 3rd ODI will win by India
+  * 4th ODI will win by Australia
+  * 5th ODI will win by India
 * Highest run scorer:
   * Rohit Sharma  
 * Highest wicket-taker:  
-  * Kane Richardson  
+  * UT Yadav  
 * Maximum sixes:  
   * Rohit Sharma  
 * Maximum fours:  
-  * Rohit Sharma
+  * AJ Finch
